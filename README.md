@@ -1,4 +1,2 @@
 # klinik-ci
-#� �d�i�g�i�u�p�c�i�
-�
-�
+# ujian digiup
